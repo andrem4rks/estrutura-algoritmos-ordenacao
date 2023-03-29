@@ -1,0 +1,8 @@
+# ninja log v5
+3	706	7016820063675673	CMakeFiles/estrutura.dir/main.cpp.obj	1a9833ca56cf65d8
+706	820	7016820064736888	estrutura.exe	af9e37e83cd5053c
+3	321	7016827594684513	build.ninja	688a6e017ad23954
+3	750	7016827685294367	CMakeFiles/estrutura.dir/main.cpp.obj	3be1b88ce23caae3
+750	868	7016827686423730	estrutura.exe	af9e37e83cd5053c
+4	775	7016827979288889	CMakeFiles/estrutura.dir/main.cpp.obj	3be1b88ce23caae3
+776	891	7016827980408251	estrutura.exe	af9e37e83cd5053c

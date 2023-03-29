@@ -1,0 +1,27 @@
+# ninja log v5
+0	728	7016846637594983	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+730	858	7016846638824270	merge_sort.exe	e42b2eb8acf12e6b
+3	712	7016847045925429	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+713	836	7016847047094758	merge_sort.exe	e42b2eb8acf12e6b
+3	724	7016850954879521	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+724	863	7016850956218758	merge_sort.exe	e42b2eb8acf12e6b
+3	728	7016851340432314	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+729	863	7016851341721582	merge_sort.exe	e42b2eb8acf12e6b
+3	744	7016852105734015	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+745	861	7016852106863379	merge_sort.exe	e42b2eb8acf12e6b
+4	769	7016853826503741	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+769	885	7016853827643103	merge_sort.exe	e42b2eb8acf12e6b
+3	721	7016854579372583	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+721	840	7016854580531905	merge_sort.exe	e42b2eb8acf12e6b
+3	729	7016854921821024	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+730	844	7016854922890400	merge_sort.exe	e42b2eb8acf12e6b
+3	713	7016855907998752	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+713	824	7016855909068145	merge_sort.exe	e42b2eb8acf12e6b
+3	785	7016856555425941	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+786	900	7016856556495333	merge_sort.exe	e42b2eb8acf12e6b
+5	767	7016856660829653	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+767	885	7016856661988992	merge_sort.exe	e42b2eb8acf12e6b
+3	748	7016856739881689	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+748	861	7016856740951082	merge_sort.exe	e42b2eb8acf12e6b
+3	727	7016859578660675	CMakeFiles/merge_sort.dir/main.cpp.obj	5feba51f001d070d
+728	842	7016859579760039	merge_sort.exe	e42b2eb8acf12e6b

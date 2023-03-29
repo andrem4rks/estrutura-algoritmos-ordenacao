@@ -1,0 +1,4 @@
+# ninja log v5
+726	842	7016827967004313	insertion_sort.exe	b21b51a8347b0212
+3	725	7016827965904947	CMakeFiles/insertion_sort.dir/main.cpp.obj	8f3c60a8e01e14e3
+1	180	7016873378994368	build.ninja	a7a1ebfd878c71f8
